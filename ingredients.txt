@@ -1,6 +1,5 @@
 avocado
 limes
-salt
 cilantro
 jalapenos
 
