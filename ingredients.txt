@@ -1,5 +1,7 @@
 avocado
 limes
+salt
+pepper
 cilantro
 jalapenos
 red onions
